@@ -1,0 +1,36 @@
+_repo: On-Something_7354
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: 'This 1910 collection of witty, charming, and often satirical essays
+  on a wide variety of topics by the great Catholic polemicist and apologist includes
+  A Plea for the Simpler Drama, The Monkey Question: An Appeal to Common Sense, On
+  Immortality, and The Way to Fairyland.'
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: 'A plea for the simpler drama -- On a notebook -- On unknown people
+  -- On a Van Tromp -- His character -- On thruppenny bits -- On the hotel at Palma
+  and a proposed guide-book -- The death of wandering Peter -- The tree of knowledge
+  -- A Norfolk man -- The odd people -- Letter of advice and apology to a young burglar
+  -- The monkey question: an appeal to common sense -- The empire builder -- Caedwalla
+  -- A unit of England -- The relic -- The ironmonger -- A force in Gaul -- On bridges
+  -- A blue book -- Perigeux of the Perigord -- The position -- Home -- The way to
+  fairyland -- The portrait of a child -- On experience -- On immortality -- On sacramental
+  things -- In patria.'
+title: On Something
+url: http://www.gutenberg.org/ebooks/7354
