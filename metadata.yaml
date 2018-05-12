@@ -1,4 +1,8 @@
 _repo: On-Something_7354
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -12,6 +16,8 @@ description: 'This 1910 collection of witty, charming, and often satirical essay
   on a wide variety of topics by the great Catholic polemicist and apologist includes
   A Plea for the Simpler Drama, The Monkey Question: An Appeal to Common Sense, On
   Immortality, and The Way to Fairyland.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7354#On-Something
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
