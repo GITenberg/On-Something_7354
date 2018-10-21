@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Essays'
+- GITenberg
 tableOfContents: 'A plea for the simpler drama -- On a notebook -- On unknown people
   -- On a Van Tromp -- His character -- On thruppenny bits -- On the hotel at Palma
   and a proposed guide-book -- The death of wandering Peter -- The tree of knowledge
